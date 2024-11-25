@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SuperJMN.Site.Browser",
   "resources": {
-    "hash": "sha256-Ff6w9LEWFvl7QSSWPI36SKSL61wZnEVdmtu29l4qML0=",
+    "hash": "sha256-XW/nb22f42uB+mDadfLajm31vmAgOmqa/eyO63nKfZE=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.ek4qz7bmnr.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -43,8 +43,8 @@
       "ReactiveUI.wasm": "sha256-bpA+fQjTgScjvwNcv1c83WDrH/MQ5rNH5QwBaeDsBUA=",
       "SkiaSharp.wasm": "sha256-WafiEbkkYEkzqWH/JNL8jylUuahSYLH0XWKOXEeVqKY=",
       "Splat.wasm": "sha256-VYXXOoyoCWNTMQcXbxgV4sTcCIWNDAvShTrTyRXegAw=",
-      "SuperJMN.Site.Browser.wasm": "sha256-XApJ0dXxe3rD5KRslZ8UMwMwCqT4xI2eGFDBQUWe2qw=",
-      "SuperJMN.Site.wasm": "sha256-7qClrtuLyC6DaKMumqzsnbDsZ0phkN9y/vDD0psiL1Y=",
+      "SuperJMN.Site.Browser.wasm": "sha256-5rdzWTpu9fUsWesAVCKQFpjKAAGRGzEG/DcCJj7GHdU=",
+      "SuperJMN.Site.wasm": "sha256-Sq864MFh6HQgiNfShMAgxdtxE7bD1/nQBNEwyIVAf1w=",
       "System.Collections.Concurrent.wasm": "sha256-IAYEwOE16Llimem9e5U+mFvDTPFFo02nuFVAidh9vM0=",
       "System.Collections.NonGeneric.wasm": "sha256-j9OWQa8DMfpzFiUyH+vokmVpIQ/dXdaxTPZ3AQPi78I=",
       "System.Collections.Specialized.wasm": "sha256-bPe2sUjFEH6BQxEuzgWnT9XWeliEPbDvVi7/+txaE2U=",
