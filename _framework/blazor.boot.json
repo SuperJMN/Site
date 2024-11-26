@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SuperJMN.Site.Browser",
   "resources": {
-    "hash": "sha256-tOU9QaWjINph0nm6fexESv1RYZjDEQffEpw6Vle+op4=",
+    "hash": "sha256-NdOL/HYZiV+Tu3O5tin6V1/9by7yqS7JGK052MvBbCs=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.9qw4gt3hyk.js": "sha256-InOmaVgBw3AntDnlajAioiIGnS4YpRYwqYFgBosC0PE="
     },
@@ -17,9 +17,9 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Avalonia.Base.wasm": "sha256-mURdIvSEgZB4sGpPmsyGXqTQm883IoQDQA4XNdMwpT8=",
+      "Avalonia.Base.wasm": "sha256-KQ6ToLsjpTBgAeYPaCZKxb3M60Iihuzf9bL+co2IO5c=",
       "Avalonia.Browser.wasm": "sha256-cwB6MCcRGlfMdKLK7VAJ14P+qZgM3DMLUtbZne0A0tw=",
-      "Avalonia.Controls.wasm": "sha256-rZ25vt3JGVTqFr8zHFFFz5b3CLejDy2F0E0AO1DAIVo=",
+      "Avalonia.Controls.wasm": "sha256-rfpqArKz4MKcKAeszI9YcvjA376HWD7T6wqiEt9htLI=",
       "Avalonia.Dialogs.wasm": "sha256-nodOrsxjtpMYqatdzD7I+E52hMCozr01faA3PyjM0ds=",
       "Avalonia.Fonts.Inter.wasm": "sha256-Y2Ei8fgDblr4M00fphqeUwTOWqL0u7tthSR7LzbIPSM=",
       "Avalonia.Markup.wasm": "sha256-0jgAmD6TorddjQtjhkxvVvWxBM+r6KV6NXpvASZCiZo=",
@@ -37,8 +37,8 @@
       "ReactiveUI.wasm": "sha256-Kb7dHRfTS3SjhLsXi2l16IP4dXPjWlXH68NWv4Jtyho=",
       "SkiaSharp.wasm": "sha256-9jtj4TG2B0TTg48fVip2eY4SFhwL/l9n+OIbs6dXAMo=",
       "Splat.wasm": "sha256-9Z2I6R6DZgxRp6Hs70l+TrRim36YMUCX1ag4e/bcF0U=",
-      "SuperJMN.Site.Browser.wasm": "sha256-D2GuKWm7hqQuBVCtF/UYICxxyzPKK2J21Ocuwun0tmQ=",
-      "SuperJMN.Site.wasm": "sha256-Ud7m0c6xy4Uc7/yVgmotPXawIUVfA2yEjAdxKjxqiPk=",
+      "SuperJMN.Site.Browser.wasm": "sha256-1hKFb847lAQtuPyOn9mVt2I/GnAUVbhq45gkcepzN8w=",
+      "SuperJMN.Site.wasm": "sha256-EVkeG4jICyEHx9JCFqqPmI1CefFyodAsGZXZcX+3B4s=",
       "System.Collections.Concurrent.wasm": "sha256-nwFD+0kjAOeXteutf/d3Pzwagmv7E9g3dUwQiMVdXW0=",
       "System.Collections.NonGeneric.wasm": "sha256-fJB6kJgXKjPEGuDHMuD9D5F31T8MBLRfVbkqjDLkBHI=",
       "System.Collections.Specialized.wasm": "sha256-RBdSVofEnqnMIY5BjRq9wnC6yKpng6RsoTs8VwNfN2w=",
