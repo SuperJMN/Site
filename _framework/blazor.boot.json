@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SuperJMN.Site.Browser",
   "resources": {
-    "hash": "sha256-RXx/2aa4DHSuxd06HBXRtlnJdEirb5gToNUQ8MutH3A=",
+    "hash": "sha256-QIDtHP+AFmw1bIFvZT5XiqeQi38jFVeSAa6q1rkOvW0=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.9qw4gt3hyk.js": "sha256-InOmaVgBw3AntDnlajAioiIGnS4YpRYwqYFgBosC0PE="
     },
@@ -31,14 +31,15 @@
       "Avalonia.Themes.Fluent.wasm": "sha256-MrSSxeIRxZfifLSI+BRhxKJZAJmO8JTNAhtgTnp4o+o=",
       "Avalonia.Vulkan.wasm": "sha256-w3lXeTQxtWn70d28+kCqepIJVHvR0U+DW1BcdWz9IYU=",
       "Avalonia.Xaml.Interactions.Custom.wasm": "sha256-D97QTJ86QaO3aQdRFe4eoyWM124ponKWXdNkmWzjqpo=",
-      "Avalonia.Xaml.Interactivity.wasm": "sha256-msySMFNT79iNaIQIG7hRZOml7vK0i9iThBXLnNCpQJs=",
+      "Avalonia.Xaml.Interactions.Responsive.wasm": "sha256-e8k0ajHcn7whoXYA5ow6PKGcHSHd9cXJ1cJ6Rfdb9xQ=",
+      "Avalonia.Xaml.Interactivity.wasm": "sha256-wDt+CyMQVSWk2BF4cqKeXzbB3KmZZLI6nFMBRwprhaA=",
       "CSharpFunctionalExtensions.wasm": "sha256-qYLN//31Dd5pN4Oc+l7IdR9JF88BWi4PR8zGJgJdI/c=",
       "HarfBuzzSharp.wasm": "sha256-R4AZ2drjkMCupZKiZAIdw/tF2N5+Id4nJAf6OOQU3HA=",
       "ReactiveUI.wasm": "sha256-Kb7dHRfTS3SjhLsXi2l16IP4dXPjWlXH68NWv4Jtyho=",
       "SkiaSharp.wasm": "sha256-9jtj4TG2B0TTg48fVip2eY4SFhwL/l9n+OIbs6dXAMo=",
       "Splat.wasm": "sha256-9Z2I6R6DZgxRp6Hs70l+TrRim36YMUCX1ag4e/bcF0U=",
-      "SuperJMN.Site.Browser.wasm": "sha256-1hKFb847lAQtuPyOn9mVt2I/GnAUVbhq45gkcepzN8w=",
-      "SuperJMN.Site.wasm": "sha256-shJl+2j/e8kf0NyWnxLqoR8nqXYog6RqBK0WRi4qf8s=",
+      "SuperJMN.Site.Browser.wasm": "sha256-LWL1nu5+psKs1UMfUt0gZLaAtJcLsSvD94x1gi+OtLE=",
+      "SuperJMN.Site.wasm": "sha256-EWAP97X64rL09Vz3OQkx6kZkPjgMe3DHxRhU5Cas2q0=",
       "System.Collections.Concurrent.wasm": "sha256-nwFD+0kjAOeXteutf/d3Pzwagmv7E9g3dUwQiMVdXW0=",
       "System.Collections.NonGeneric.wasm": "sha256-fJB6kJgXKjPEGuDHMuD9D5F31T8MBLRfVbkqjDLkBHI=",
       "System.Collections.Specialized.wasm": "sha256-RBdSVofEnqnMIY5BjRq9wnC6yKpng6RsoTs8VwNfN2w=",
